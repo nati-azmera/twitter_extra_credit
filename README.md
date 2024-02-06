@@ -27,9 +27,9 @@ Resulting graph:
 Third graph:
 
 ```
-$ python3 ./src/alternative_reduce.py --keys '#police_brutality' '#blm'
+$ python3 ./src/alternative_reduce.py --keys '#police_brutality' '#blm' '#george_floyd' '#black_lives_matter' '#DefundPolice'
 ```
 
 Resulting graph:
 
-![#blm vs #policebrutatlity](police_brutality_blm.png)
+![#blm vs #policebrutatlity vs #georgefloyd vs #blacklivesmatter vs #defundpolice](police_brutality_blm_george_floyd_black_lives_matter_DefundPolice.png)
